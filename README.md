@@ -18,8 +18,11 @@ The Egg Catcher game is a simple Python-based game where the player controls a b
 - Python installed on your machine.
 - Pygame library installed. You can install it via pip:
     ```bash
-    pip3 install pygame  **OR**
-    pip install pygame
+    pip3 install pygame  
+    ```
+    **OR**
+    ```bash
+    pip install pygame  
     ```
 
 ### Installation
